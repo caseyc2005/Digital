@@ -1,0 +1,125 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+@-ms-viewport{
+  width: device-width;
+}
+
+
+
+
+body {
+  padding-top:100px;
+  
+  
+  
+}
+
+html, body {
+  height:100%;
+  margin:10px;
+}
+
+p {
+  padding-left:50px;
+  padding-right:50px;
+  font-size: 1.5em;
+}
+
+.navbar {
+  height:35px;
+  margin:0px;
+  background-color: #0dfff3;
+}
+
+span {
+  background-color: black;
+}
+
+.navbar-brand {
+font-size: 150%;
+  
+}
+
+
+.section1 {
+  background-color:#0dfff3;
+  color: #0dfff3;
+  padding-top:30px;
+  min-height: 100%;
+  
+
+}
+
+.section2 {
+  background-color: #0dfff3;
+  color: white;
+  
+}
+
+.section3 {
+  background-color:#0dfff3;
+  color: black;
+  height: 100%;
+  width:100%;
+}
+
+span {
+  height: 100%;
+}
+
+img {
+  max-height: 20%;
+  max-width: 20%; 
+}
+
+
+
+hr {
+  max-width: 10%;
+}
+
+li {
+  font-size: 1em;
+  color: grey;
+  display:inline;
+  font-weight:600;
+  max-width: 150px;
+  
+  
+}
+
+
+li:hover {
+  background-color: gray;
+  
+ 
+  
+}
+
+ 
+
+
+.thumb-row {
+  
+  max-width:100%;
+}
+
+
+.about-text {
+  max-width: 50%;
+  
+ 
+}
+
+p { 
+}
+
+.cap-heading{
+  float:left;
+}
+
+h3 {
+  font-size: 2em;
+}
